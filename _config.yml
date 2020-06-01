@@ -3,7 +3,7 @@ title: JL Blog
 SEOTitle: 九斤的博客 | JL Blog
 header-img: img/post-bg-desk.jpg
 email: lvjiujin@gmail.com
-description: "我干了什么 究竟拿了时间换了什么"
+description: "Thinking will not overcome fear but action will. 我干了什么 究竟拿了时间换了什么"
 keyword: "JL, JL Blog, 九斤的博客, lvjiujin, 吕九斤, Machine Learning, Natural Language Processing, Deep Learning"
 url: "http://lvjiujin.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -21,7 +21,7 @@ RSS: true
 weibo_username:     lvjiujin
 zhihu_username:     lvjiujin
 github_username:    lvjiujin
-facebook_username:  Jiujin Lyu
+facebook_username:  JiujinLyu
 jianshu_username:   
 twitter_username:   CoolJiujinLyu
 
