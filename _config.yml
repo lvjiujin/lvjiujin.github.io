@@ -57,17 +57,17 @@ kramdown:
 
 # 评论系统
 #Disqus（https://disqus.com/）
-disqus_username: lvjiujin
+# disqus_username: lvjiujin
 
 # Gitalk
 gitalk:
-enable: true    #是否开启Gitalk评论
-clientID: fd209675c76f0381f5e8                            #生成的clientID
-clientSecret: 10fcab7d63585cd8f158ff5e757a66f3d14eefcc    #生成的clientSecret
-repo: lvjiujin.github.io    #仓库名称
-owner: lvjiujin    #github用户名
-admin: lvjiujin
-distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  enable: true    #是否开启Gitalk评论
+  clientID: fd209675c76f0381f5e8                            #生成的clientID
+  clientSecret: 10fcab7d63585cd8f158ff5e757a66f3d14eefcc    #生成的clientSecret
+  repo: lvjiujin.github.io    #仓库名称
+  owner: lvjiujin    #github用户名
+  admin: lvjiujin
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
