@@ -31,13 +31,13 @@ tags:
 
  $\frac{d f(x)}{d x}$   
 
-A1x1 B1x1  1个导数
+$A_{1 X 1}$  $B_{1 X 1}$  1个导数
 
-Amx1 B1x1 1个导数
+$A_{m X 1}$  $B_{1X1}$ m个导数
 
-Amx1 Bpx1 mxp 个导数
+$A_{mX1}$ $B_{pX1}$  mxp 个导数
 
-Amxn  Bpxq  mxnxpxq个导数
+$A_{mXn}$  $B_{pXq}$  mxnxpxq​ 个导数
 
 #### 1. 标量函数
 
